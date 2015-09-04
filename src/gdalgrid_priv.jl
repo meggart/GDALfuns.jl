@@ -1,3 +1,3 @@
-# Julia wrapper for header: /opt/local/include/gdal_version.h
+# Julia wrapper for header: /opt/local/include/gdalgrid_priv.h
 # Automatically generated using Clang.jl wrap_c, version 0.0.0
 
